@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamad abbas al masri</h1>
-<h3 align="center">A passionate developer from lebanon</h3>
+<h3 align="center">A passionate junior developer from lebanon</h3>
 
 - 📫 How to reach me **mohamadabbass838@gmail.com**
 
